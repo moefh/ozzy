@@ -1,6 +1,6 @@
 # Ozzy
 
-Voltage meter built with Arduino
+A *really* crummy oscilloscope built using an Arduino.
 
 ## Example Usage
 
